@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnozieChibuike&show_icons=true&theme=radical)
 
 <!--
 **AnozieChibuike/AnozieChibuike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
