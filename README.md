@@ -19,7 +19,7 @@
 - A passionate Self-taught Back-End developer.
 - Tech Enthusiast.
 - Currently learning Software Engineering @ Alx_Africa.
-- Personal fintech ![link](https://agberodata.pythonanywhere.com)
+- Personal fintech [link](https://agberodata.pythonanywhere.com)
 - I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
