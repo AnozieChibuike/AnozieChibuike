@@ -15,12 +15,11 @@
 
 <br>
 
-- A passionate Self-taught Back-End developer.
-- Tech Enthusiast.
-- Currently learning Software Engineering @ Alx_Africa.
-- Personal fintech [link](https://agberodata.pythonanywhere.com)
-- I’m currently open for an Intern or a new job opportunity.
-- 🔭 I’m currently working on AgberoChat(https://github.com/AnozieChibuike/webChatO)
+- 🙈 A passionate Self-taught Back-End developer.
+- 👨‍🎓 I'm Currently a student of Software Engineering @ Alx_Africa.
+- 👨‍💻 My Personal fintech [link](https://agberodata.pythonanywhere.com)
+- 🧳 I’m currently open for an Intern or a new job opportunity.
+- 🔭 I’m currently working on [AgberoChat](https://github.com/AnozieChibuike/webChatO)
 - 🌱 I’m currently learning C and Javascript.
 - 👯 I’m looking to collaborate on Flask Projects.
 - 🤔 I’m looking for help with C.
