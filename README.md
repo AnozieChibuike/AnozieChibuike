@@ -17,7 +17,7 @@
 
 - 🙈 A passionate Self-taught Back-End developer.
 - 👨‍🎓 I'm Currently a student of Software Engineering @ Alx_Africa.
-- 👨‍💻 My Personal fintech [link](https://agberodata.pythonanywhere.com)
+- 👨‍💻 My Personal [fintech](https://agberodata.pythonanywhere.com)
 - 🧳 I’m currently open for an Intern or a new job opportunity.
 - 🔭 I’m currently working on [AgberoChat](https://github.com/AnozieChibuike/webChatO)
 - 🌱 I’m currently learning C and Javascript.
