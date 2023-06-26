@@ -125,10 +125,3 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on AgberoChat(https://github.com/AnozieChibuike/webChatO)
-- 🌱 I’m currently learning C and Javascript.
-- 👯 I’m looking to collaborate on Flask Projects.
-- 🤔 I’m looking for help with C.
-- 💬 Ask me about Flask.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Flask framework was inspired by white wine...
