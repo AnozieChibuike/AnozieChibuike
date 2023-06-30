@@ -58,7 +58,6 @@
     
     ![Twillio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
-<br>
 
 - **Extras**:
 
