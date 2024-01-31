@@ -45,6 +45,7 @@
     ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![React Native](https://img.shields.io/badge/React%20Native-38B2AC?style=for-the-badge&logo=react&logoColor=white)
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart-0d0073?style=for-the-badge&logo=dart&logoColor=white)
     ![Typescript](https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=typescript&logoColor=white)
   ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
