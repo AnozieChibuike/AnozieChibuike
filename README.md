@@ -50,6 +50,7 @@
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
    ![React](https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white)
+   ![Flutter](https://img.shields.io/badge/Flutter-38B2AC?style=for-the-badge&logo=flutter&logoColor=white)
     ![Jinja](https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=red)
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
