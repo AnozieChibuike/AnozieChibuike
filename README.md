@@ -106,9 +106,9 @@
 <div align="center">
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnozieChibuike&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-![AnozieChibuike's Stats](https://github-readme-stats.vercel.app/api?username=AnozieChibuike&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![AnozieChibuike's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnozieChibuike&theme=vue-dark&hide_border=true)
-![AnozieChibuike's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnozieChibuike&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<img src='https://github-readme-stats.vercel.app/api?username=AnozieChibuike&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' alt='stats' />
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=AnozieChibuike&theme=vue-dark&hide_border=true' alt='stats' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AnozieChibuike&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' alt='stats' />
 </div>
 
 <br>
