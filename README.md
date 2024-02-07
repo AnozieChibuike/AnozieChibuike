@@ -24,7 +24,7 @@
 - 🤔 I’m looking for help with C.
 - 💬 Ask me about Flask.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Flask framework was inspired by white wine...
+- ⚡ Fun fact: Your brain is constantly eating itself😊.
 
 <br><br>
 
