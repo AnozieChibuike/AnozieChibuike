@@ -15,7 +15,7 @@
 
 <br>
 
-- 🙈 A passionate self-taught Back-End developer.
+- 🙈 A passionate self-taught software engineer.
 - 👨‍🎓 Cohort 17/21 | Software Engineering | Alx_Africa.
 - 👨‍💻 My Personal [fintech](https://agberodata.com.ng)
 - 🔭 I’m currently working on [AgberoChat](https://github.com/AnozieChibuike/AGBEROCHAT2.0)
