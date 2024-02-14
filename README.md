@@ -19,7 +19,7 @@
 - 👨‍🎓 Cohort 17/21 | Software Engineering | Alx_Africa.
 - 👨‍💻 My Personal [fintech](https://agberodata.com.ng)
 - 🔭 I’m currently working on [AgberoChat](https://github.com/AnozieChibuike/AGBEROCHAT2.0)
-- 🌱 I’m currently learning C,Javascript, Java, React Native...
+- 🌱 I’m currently learning C,Javascript, Java, React Native,Dart,Flutter...
 - 👯 I’m looking to collaborate on Flask Projects.
 - 🤔 I’m looking for help with C.
 - 💬 Ask me about Flask.
