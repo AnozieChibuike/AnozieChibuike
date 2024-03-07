@@ -25,6 +25,7 @@
 - 💬 Ask me about Flask.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Your brain is constantly eating itself😊.
+- Check my github streaks ehehehe
 
 <br><br>
 
