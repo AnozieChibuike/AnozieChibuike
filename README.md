@@ -17,7 +17,7 @@
 
 - 🙈 A passionate self-taught software engineer.
 - 👨‍🎓 Cohort 17/21 | Software Engineering | Alx_Africa.
-- 👨‍💻 My Personal [fintech](https://agberodata.com.ng)
+- 👨‍💻 My Personal [fintech](https://agberodata.com.ng) (Hosting Agbero Chat on the domain)
 - 🔭 I’m currently working on [AgberoChat2.0](https://github.com/AnozieChibuike/AGBEROCHAT2.0)
 - 🌱 I’m currently learning C,Javascript, Java, React Native,Dart,Flutter,German...
 - 👯 I’m looking to collaborate on Flask Projects.
