@@ -24,6 +24,8 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Your brain is constantly eating itself😊.
 - Check my github streaks ehehehe
+- 🇬🇧 I speak english fluently
+- 🇩🇪 Ich lerne deustch und Ich sprechen ein bisschen.
 
 <br><br>
 
