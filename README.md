@@ -13,6 +13,7 @@
 
 <br>
 
+- 👽 CyberSecurity Major at the Federal University of Technology Owerri.
 - 🙈 A passionate self-taught software engineer.
 - 👨‍🎓 Cohort 17/21 | Software Engineering | Alx_Africa.
 - 👨‍💻 My Personal [fintech](https://agberodata.com.ng) (Hosting Agbero Chat on the domain)
@@ -169,8 +170,3 @@
 <br>
 <br>
 <a href="https://holopin.me/anoziechibuike" target="_blank"><img src="https://holopin.me/anoziechibuike" width="375" alt="holopin-badge"></a>
-<!--
-**AnozieChibuike/AnozieChibuike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
