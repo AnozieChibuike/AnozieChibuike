@@ -18,8 +18,8 @@
 - 👨‍🎓 Cohort 17/21 | Software Engineering | Alx_Africa.
 - 👨‍💻 My Personal [fintech](https://agberodata.com.ng) (Hosting Agbero Chat on the domain)
 - 🔭 I’m currently working on [AgberoChat2.0](https://github.com/AnozieChibuike/AGBEROCHAT2.0)
-- 🌱 I’m currently learning C,Javascript, Java, React Native,Dart,Flutter,German...
-- 👯 I’m looking to collaborate on Flask Projects.
+- 🌱 I’m currently learning Solidity,German...
+- 👯 I’m looking to collaborate on Flask and Web3 Projects.
 - 🤔 I’m looking for help with C,Java.
 - 💬 Ask me about Flask.
 - 😄 Pronouns: He/Him.
@@ -51,6 +51,7 @@
 	![Typescript](https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=typescript&logoColor=white)
 	![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 	![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+	![Solidity](https://img.shields.io/badge/Solidity-323330?style=for-the-badge&logo=Solidity&logoColor=blue)
 	![React](https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white)
 	![Flutter](https://img.shields.io/badge/Flutter-38B2AC?style=for-the-badge&logo=flutter&logoColor=white)
 	![Jinja](https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=red)
