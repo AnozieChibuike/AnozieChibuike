@@ -16,16 +16,13 @@
 - 👽 CyberSecurity Major at the Federal University of Technology Owerri.
 - 🙈 A passionate self-taught software engineer.
 - 👨‍🎓 Cohort 17/21 | Software Engineering | Alx_Africa.
-- 👨‍💻 My Personal [fintech](https://agberodata.com.ng) (Hosting Agbero Chat on the domain)
-- 🔭 I’m currently working on [AgberoChat2.0](https://github.com/AnozieChibuike/AGBEROCHAT2.0)
-- 🌱 I’m currently learning Solidity,German...
-- 👯 I’m looking to collaborate on Flask and Web3 Projects.
+- 🌱 I’m currently learning German...
+- 👯 I’m looking to collaborate on Web3 Projects.
 - 🤔 I’m looking for help with C,Java.
 - 💬 Ask me about Flask.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Your brain is constantly eating itself😊.
 - 📍0.0.0.0/0
-- 🟩 Check my github streaks ehehehe
 - 🇬🇧 I speak english fluently
 - 🇩🇪 Ich lerne deustch und Ich sprechen ein bisschen.
 
